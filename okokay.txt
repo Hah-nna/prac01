@@ -1,2 +1,7 @@
 hello world
+<<<<<<< HEAD
 dsa
+=======
+dhfofhihfdlfkd
+gkghsdlf
+>>>>>>> coupon
