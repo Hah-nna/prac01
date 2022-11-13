@@ -34,6 +34,8 @@ window.onload = function() {
              }
             } else {
                 alert('올바르지 않은 단어입니다.')
+                $word.textContent = word;
+                $input.focus = '';
         }
       }
     };
